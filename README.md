@@ -10,7 +10,10 @@ Feel free to mess with the config file and see how it affects the behaviour of t
 Ps.: Runs on linux, not tested it on windows...
 
 
-If you're interested in how NEAT works check out this paper or thei website ;)
+If you're interested in how NEAT works check out this paper:
+
 http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
+
+or their website ;)
 
 https://neat-python.readthedocs.io/en/latest/
