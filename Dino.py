@@ -60,8 +60,12 @@ def main(genomes, config):
     win = pygame.display.set_mode((WIN_WIDTH,WIN_HEIGHT))
     clock = pygame.time.Clock()
 
-    with open('winner.pkl', 'rb') as input_file:
-        g = pickle.load(input_file)
+    # Load the genome of previous/best try
+    try:
+        with open('winner.pkl', 'rb') as input_file:
+            g = pickle.load(input_file)
+    except:
+        pass
     
 # game loop
     pygame.init()
