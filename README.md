@@ -12,4 +12,5 @@ Ps.: Runs on linux, not tested it on windows...
 
 If you're interested in how NEAT works check out this paper or thei website ;)
 http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
+
 https://neat-python.readthedocs.io/en/latest/
