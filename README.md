@@ -1,8 +1,6 @@
 # DINO-NEAT
 
-##########################################################################
-  Google Chrome-like game with artificial inteligence with help of NEAT
-##########################################################################
+Google Chrome-like game with artificial inteligence with help of NEAT
 
 To run the programm you'll need pygame and neat (and other common libraries)
 
