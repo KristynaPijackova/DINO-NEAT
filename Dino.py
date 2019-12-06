@@ -49,9 +49,9 @@ def main(genomes, config):
     vel = 5                         # game velocity
     jump_vel = vel                  # jump velocity
     speed = 55                      # ticks
-    dino_y = 510                     # initial dino y position
+    dino_y = 510                    # initial dino y position
     dino_x = 50
-    count = 0                       # hep var to count score
+    count = 0                       # help var to count score
     score = 0
     reward = 0
     ground = Ground(500)
